@@ -34,11 +34,11 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 
 `$ git branch` - __Fill Me Out__
 
-`$ git checkout <branch name>` - __Fill Me Out__
+`$ git checkout <branch name>` - to create a new branch
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - put branch changes together in master
 
 ## Commands for working with a remote repository (e.g. Github)
 
@@ -51,4 +51,3 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git pull <remote name> <branch name>` - Pull down changes from a remote and integrate them into your repo. Performs `git fetch` and then `git merge`.
 
 `$ git push <remote name> <branch name>` - Send your changes to the remote to be merged.
-
